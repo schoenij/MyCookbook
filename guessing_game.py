@@ -7,7 +7,6 @@ user_won = False
 
 # Computer selects a random number between 1 and 10
 correct_answer = random.randint(1, 10)
-print(correct_answer)
 
 while number_of_guesses > 0:
     # User guesses the number
