@@ -8,3 +8,4 @@ print(colors[:-2])
 print(colors[:2])
 print(colors[2:])
 print(colors[:])
+

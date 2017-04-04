@@ -8,3 +8,4 @@ print(type(my_string))
 
 my_integer = "some text"
 print(type(my_integer))
+
