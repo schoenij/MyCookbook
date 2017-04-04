@@ -27,3 +27,18 @@ print(x)
 print(x[0])
 print(x[0][1])
 
+# Removes the last item from a list
+colors.pop()
+print(colors)
+
+# Counts the number of times a value appears in a list
+colors = ['blue', 'red', 'orange', 'blue']
+print(colors.count('blue'))
+
+# Reverses a list
+colors.reverse()
+print(colors)
+
+# Sorts a list alphabetically
+colors.sort()
+print(colors)

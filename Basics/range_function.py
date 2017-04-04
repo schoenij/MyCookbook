@@ -9,4 +9,3 @@ for i in range(0, 10, 3):   # Starts at 0 goes to 10 and increases by increments
 
 for i in range(0, -10, -2):     # Counts backwards in increments of 2 from 0 to -10
     print(i)
-
