@@ -1,3 +1,5 @@
+import math
+
 # Basic usage of str.format()
 print('We are the {} who say "{}!"'.format('knights', 'Ni'))
 
@@ -17,5 +19,4 @@ contents = 'eels'
 print('My hovercraft is full of {}.'.format(contents))
 print('My hovercraft is full of {!r}.'.format(contents))
 
-import math
 print('The value of Pi is approximately {}.'.format(math.pi))
